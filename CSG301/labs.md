@@ -9,4 +9,4 @@ vs code extension -->  [GoogleCloudTools.cloudcode](https://marketplace.visualst
 [Developing Applications with Google Cloud: Storing Application Data](https://www.skills.google/paths/19/course_templates/874/labs/541106)      
 [App Dev: Storing Image and Video Files in Cloud Storage - Python](https://www.skills.google/focuses/1075?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=75799321)     
 [Streaming Data to Bigtable](https://www.skills.google/focuses/92498?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76657449)    
-
+[Cloud Spanner - Loading Data and Performing Backups](https://www.skills.google/focuses/54354?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76669307)
