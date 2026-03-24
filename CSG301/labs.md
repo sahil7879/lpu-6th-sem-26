@@ -10,4 +10,6 @@ vs code extension -->  [GoogleCloudTools.cloudcode](https://marketplace.visualst
 [App Dev: Storing Image and Video Files in Cloud Storage - Python](https://www.skills.google/focuses/1075?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=75799321)     
 [Streaming Data to Bigtable](https://www.skills.google/focuses/92498?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76657449)    
 [Cloud Spanner - Loading Data and Performing Backups](https://www.skills.google/focuses/54354?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76669307)    
-[Datastore: Qwik Start](https://www.skills.google/focuses/941?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76831059)
+[Datastore: Qwik Start](https://www.skills.google/focuses/941?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76831059)    
+[Get Started with Cloud Storage: Challenge Lab](https://www.skills.google/course_templates/725/labs/598605)    
+[APIs Explorer: Cloud Storage](http://skills.google/course_templates/755/labs/613031)    
