@@ -5,7 +5,7 @@
 vs code extension -->  [GoogleCloudTools.cloudcode](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode)   
 ## course 
 [Use APIs to Work with Cloud Storage](http://skills.google/course_templates/755?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&search_id=77588619)   
-[Build Infrastructure with Terraform on Google Cloud](https://www.skills.google/course_templates/636?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=77969309)   
+  
 ## labs
 [App Dev: Setting up a Development Environment - Python](https://www.skills.google/focuses/1074?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=75647167)    
 [Getting Started with Cloud Shell and gcloud](https://www.skills.google/focuses/563?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=75660370)      
