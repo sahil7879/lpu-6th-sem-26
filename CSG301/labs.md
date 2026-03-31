@@ -16,4 +16,5 @@ vs code extension -->  [GoogleCloudTools.cloudcode](https://marketplace.visualst
 [Datastore: Qwik Start](https://www.skills.google/focuses/941?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=76831059)    
 [Get Started with Cloud Storage: Challenge Lab](https://www.skills.google/course_templates/725/labs/598605)    
 [APIs Explorer: Cloud Storage](http://skills.google/course_templates/755/labs/613031)    
-[Developing Applications on Google Cloud: Adding User Authentication and Intelligence to Your Application](https://www.skills.google/paths/19/course_templates/874/labs/541121)    
+[Developing Applications on Google Cloud: Adding User Authentication and Intelligence to Your Application](https://www.skills.google/paths/19/course_templates/874/labs/541121)        
+[App Dev: Adding User Authentication to your Application - Python](https://www.skills.google/focuses/1071?catalog_rank=%7B%22rank%22%3A14%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78495432)
