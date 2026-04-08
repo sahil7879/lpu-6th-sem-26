@@ -20,3 +20,4 @@ vs code extension -->  [GoogleCloudTools.cloudcode](https://marketplace.visualst
 [App Dev: Adding User Authentication to your Application - Python](https://www.skills.google/focuses/1071?catalog_rank=%7B%22rank%22%3A14%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78495432)    
 [Pub/Sub: Qwik Start - Python](https://www.skills.google/focuses/2775?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78638517)    
 [Stream Processing with Cloud Pub/Sub and Dataflow: Qwik Start](https://www.skills.google/focuses/18457?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78639243)    
+[Cloud Run Functions: Qwik Start](https://www.skills.google/focuses/49757?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=79476354)
