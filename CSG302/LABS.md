@@ -18,4 +18,5 @@
 [Docker Essentials: Containers and Artifact Registry](http://skills.google/focuses/127756?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78611245)    
 [Running a Containerized App on Google Kubernetes Engine](https://www.skills.google/focuses/5982?catalog_rank=%7B%22rank%22%3A13%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78611551)      
 [Pod Deployment in GKE Infrastructure](https://www.skills.google/focuses/132359?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=79652568)      
-[Managing Deployments Using Kubernetes Engine](https://www.skills.google/focuses/639?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=79652842)    
+[Managing Deployments Using Kubernetes Engine](https://www.skills.google/focuses/639?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=79652842)       
+[Understanding and Combining GKE Autoscaling Strategies](https://www.skills.google/focuses/15636?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=79879038)     
