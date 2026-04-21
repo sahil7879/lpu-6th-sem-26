@@ -25,4 +25,5 @@ vs code extension -->  [GoogleCloudTools.cloudcode](https://marketplace.visualst
 [Pub/Sub: Qwik Start - Python](https://www.skills.google/focuses/2775?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78638517)    
 [Stream Processing with Cloud Pub/Sub and Dataflow: Qwik Start](https://www.skills.google/focuses/18457?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78639243)    
 [Cloud Run Functions: Qwik Start](https://www.skills.google/focuses/49757?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=79476354)       
-[Modernizing Applications with Apigee X](https://www.skills.google/paths/19/course_templates/714/labs/613035)
+[Modernizing Applications with Apigee X](https://www.skills.google/paths/19/course_templates/714/labs/613035)       
+[Google Kubernetes Engine Pipeline using Cloud Build](https://www.skills.google/focuses/52829?catalog_rank=%7B%22rank%22%3A12%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=81528010)    
