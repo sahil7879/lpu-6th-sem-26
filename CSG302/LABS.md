@@ -26,4 +26,5 @@
 [GKE Workload Optimization](https://www.skills.google/focuses/15706?catalog_rank=%7B%22rank%22%3A23%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=80881822)      
 [Creating Services and Ingress Resources](https://www.skills.google/course_templates/660/labs/595589)    
 [How to Use a Network Policy on Google Kubernetes Engine](https://www.skills.google/course_templates/660/labs/595604)      
-[Configuring Persistent Storage for Google Kubernetes Engine](https://www.skills.google/course_templates/34/labs/623210)
+[Configuring Persistent Storage for Google Kubernetes Engine](https://www.skills.google/course_templates/34/labs/623210)    
+[Securing Google Kubernetes Engine with IAM and Pod Security Admission](https://www.skills.google/course_templates/33/labs/596945)
