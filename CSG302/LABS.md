@@ -27,4 +27,5 @@
 [Creating Services and Ingress Resources](https://www.skills.google/course_templates/660/labs/595589)    
 [How to Use a Network Policy on Google Kubernetes Engine](https://www.skills.google/course_templates/660/labs/595604)      
 [Configuring Persistent Storage for Google Kubernetes Engine](https://www.skills.google/course_templates/34/labs/623210)    
-[Securing Google Kubernetes Engine with IAM and Pod Security Admission](https://www.skills.google/course_templates/33/labs/596945)
+[Securing Google Kubernetes Engine with IAM and Pod Security Admission](https://www.skills.google/course_templates/33/labs/596945)    
+[Configuring GKE-Native Monitoring and Logging](https://www.skills.google/course_templates/33/labs/596953)
