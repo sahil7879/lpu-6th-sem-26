@@ -7,7 +7,8 @@
 [Professional Cloud DevOps Engineer Certification](https://www.skills.google/paths/20?catalog_rank=%7B%22rank%22%3A12%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D)   
 ## courses 
 [Build Infrastructure with Terraform on Google Cloud](https://www.skills.google/course_templates/636?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=77969309)     
-[Logging and Monitoring in Google Cloud](https://www.skills.google/paths/20/course_templates/99)
+[Logging and Monitoring in Google Cloud](https://www.skills.google/paths/20/course_templates/99)     
+[Observability in Google Cloud](https://www.skills.google/paths/20/course_templates/864)
 ## labs 
 
 [Building a DevOps Pipeline](https://www.skills.google/paths/20/course_templates/41/labs/613369)    
